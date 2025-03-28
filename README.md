@@ -1,2 +1,2 @@
 # CvWebsite
-Personal website showcasing cv
+Personal website showcasing project portfolio and cv
